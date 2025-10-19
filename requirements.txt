@@ -1,0 +1,9 @@
+streamlit
+transformers
+torch
+sentence-transformers
+scikit-learn
+PyPDF2
+python-docx
+pillow
+pytesseract
